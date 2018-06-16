@@ -1,2 +1,2 @@
-# Face-
+# Nfinf
 Anonymous social network.
